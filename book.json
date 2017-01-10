@@ -15,8 +15,7 @@
         "splitter",
         "tbfed-pagefooter",
         "github",
-        "edit-link",
-        "toggle-chapters"
+        "edit-link"
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
